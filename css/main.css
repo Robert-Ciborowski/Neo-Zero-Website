@@ -2261,10 +2261,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #008000;
 }
 
-.p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .facts-area, .thumb .overlay-bg, .price-area .single-price:hover, .brands-area, .about-banner, .sb_bar {
-  background: -moz-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
-  background: -ms-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+.p1-gradient-bg, .banner-left .primary-btn, .home-about-right .primary-btn, .thumb .overlay-bg, .music-banner, .sb_bar {
+  background-image: url("../img/banner.png");
+  background-color: #ffffff;
+  background-position: center;
+  background-size: contain;
+  position: center;
 }
 
 .p1-gradient-color, .single-services:hover .lnr {
@@ -2474,19 +2476,23 @@ body.mobile-nav-active #mobile-nav-toggle {
 .home-carousel {
   /*width:90%;*/
   height:auto;
-  margin-left: 10%;
+  max-height: 800px;
+  max-width: 800px;
+  margin-left: 15%;
   /*max-width: 90%*/
 }
 
 .home-carousel-image {
   width: 100%;
+  max-height: 800px;
+  max-width: 800px;
   height: auto;
 }
 
 .home-carousel-2 {
   /*width:90%;*/
   height:auto;
-  margin-right: 10%;
+  margin-right: 15%;
   /*max-width: 90%*/
 }
 
@@ -2510,7 +2516,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 50%;
   height: auto;
-  max-width: 50%;
+  max-height: 485px;
+  max-width: 190px;
   margin-left: auto;
   margin-right: 0;
   margin-top: 20%;
@@ -2520,7 +2527,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   display: block;
   width: 50%;
   height: auto;
-  max-width: 50%;
+  max-height: 485px;
+  max-width: 190px;
   margin-left: 0;
   margin-right: auto;
   margin-top: 20%;
@@ -2574,6 +2582,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #ffffff;
 }
 
+.title-image {
+  position: center;
+  width: 40%;
+  height: 40%;
+}
+
 .home-paragraph-image {
   width: 100%;
   height: 100%;
@@ -2581,10 +2595,25 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 .soundcloud {
+  width: 100%;
+  height: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+}
+
+.soundcloud-section {
   width: 70%;
-  height: 500px;
-  margin-left: 25%;
-  margin-right: 15%;
+  height: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 5%;
+  position: center;
+  background-color: #ffffff;
+}
+
+.black-body {
+  background-color: #000000;
 }
 
 .bold-text {
