@@ -1,2 +1,13 @@
 # Neo-Zero-Website
-The website for the game Neo-Zero.
+The official website for the indie-game Neo-Zero. https://www.neozerogame.com.
+
+## Sections
+* Homepage
+* Music
+* Profile
+* Contact
+
+## Main Libraries
+* JQuery
+* Bootstrap
+* Owl-Carousel
