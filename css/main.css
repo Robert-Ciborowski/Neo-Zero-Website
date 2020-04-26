@@ -2618,6 +2618,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 5%;
 }
 
+.navigation-menu-2 {
+  display: inline-block;
+  margin: 0 auto;
+}
+
 .copyright-text {
   padding: 0 5%;
   color: #ffffff;

@@ -4,11 +4,6 @@
     <list default="true" id="3406e1f2-85c7-4514-8599-18a5cf0efece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screenshots/shot1.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/screenshots/shot1.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screenshots/shot2.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/screenshots/shot2.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screenshots/shot3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screenshots/shot4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/screenshots/shot5.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
@@ -45,7 +40,7 @@
       <workItem from="1587665641682" duration="13000" />
       <workItem from="1587692227824" duration="501000" />
       <workItem from="1587738709489" duration="4720000" />
-      <workItem from="1587920477412" duration="2936000" />
+      <workItem from="1587920477412" duration="4201000" />
     </task>
     <servers />
   </component>
