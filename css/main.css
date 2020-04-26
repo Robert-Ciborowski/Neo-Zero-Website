@@ -2559,6 +2559,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 0px;
 }
 
+.home-column-33 {
+  float: left;
+  width: 33.3333%;
+  padding: 0px;
+}
+
 .left-paragraph {
   padding: 5% 5% 5% 20%;
   color: #222;

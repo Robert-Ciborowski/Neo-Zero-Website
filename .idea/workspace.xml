@@ -4,8 +4,6 @@
     <list default="true" id="3406e1f2-85c7-4514-8599-18a5cf0efece" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/profile.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Resume" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -40,7 +39,7 @@
       <workItem from="1587665641682" duration="13000" />
       <workItem from="1587692227824" duration="501000" />
       <workItem from="1587738709489" duration="4720000" />
-      <workItem from="1587920477412" duration="4201000" />
+      <workItem from="1587920477412" duration="4912000" />
     </task>
     <servers />
   </component>
@@ -56,5 +55,9 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="987" y="255" width="585" height="530" key="find.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1587923146433" />
+    <state x="936" y="240" key="run.anything.popup" timestamp="1587932242091">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="936" y="240" key="run.anything.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1587932242091" />
   </component>
 </project>
